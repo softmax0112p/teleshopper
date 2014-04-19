@@ -1,0 +1,32 @@
+{
+  "name": "teleshopper",
+  "version": "0.1.0",
+  "description": "A workshopper for telehash",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No9/teleshopper.git"
+  },
+  "keywords": [
+    "workshopper",
+    "nodeschool.io",
+    "telehash"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/teleshopper/issues"
+  },
+  "homepage": "https://github.com/No9/teleshopper",
+  "dependencies": {
+    "telehash": "^0.2.12",
+    "workshopper": "^1.0.0-alpha07",
+    "workshopper-exercise": "^0.2.3",
+    "workshopper-boilerplate": "0.0.1"
+  },
+  "bin": "./teleshopper.js",
+  "preferGlobal": true
+}
