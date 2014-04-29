@@ -25,7 +25,8 @@
     "telehash": "^0.2.12",
     "workshopper": "^1.0.0-alpha07",
     "workshopper-exercise": "^0.2.3",
-    "workshopper-boilerplate": "0.0.1"
+    "workshopper-boilerplate": "0.0.1",
+    "colors-tmpl": "^0.1.0"
   },
   "bin": "./teleshopper.js",
   "preferGlobal": true
